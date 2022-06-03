@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Organization template
+    url: https://github.com/public-acme/.github
+    about: templates
